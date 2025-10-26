@@ -1,0 +1,26 @@
+﻿  Learn_DataStructure.cpp
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(27,17): error C3861: 'Null': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(27,17): error C2065: 'Null': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(33,4): error C3861: 'node8temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(35,4): error C3861: 'temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(35,11): error C3861: 'temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(36,11): error C3861: 'temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(33,4): error C2065: 'node8temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(35,4): error C2065: 'temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(35,11): error C2065: 'temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(36,11): error C2065: 'temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(45,4): error C3861: 'node8temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(47,4): error C3861: 'temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(47,11): error C3861: 'temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(48,11): error C3861: 'temp': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(45,4): error C2065: 'node8temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(47,4): error C2065: 'temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(47,11): error C2065: 'temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(48,11): error C2065: 'temp': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(61,3): error C3861: 'curnt': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(64,12): error C2065: 'curnt': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(64,12): error C3861: 'curnt': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(65,4): error C3861: 'curnt': identifier not found
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(61,3): error C2065: 'curnt': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(65,4): error C2065: 'curnt': undeclared identifier
+D:\my-projects\C++\Learn_DataStructure\Learn_DataStructure\Learn_DataStructure.cpp(78,4): error C2660: 'stack<int>::getTop': function does not take 0 arguments
