@@ -1,3 +1,48 @@
+Data Structure
+Page 1
+Data structure is a way to store and organize data so that it can be used efficiently. It helps in organizing data in memory. It is not a programming language itself but a set of algorithms that can be used within any programming language to structure data in memory.
+
+Data Structures Classification
+
+Data structures are broadly classified into two categories:
+
+- *Primitive data structures*: These are basic data types that are built into a programming language, such as int, char, float, double, and pointer.
+- *Non-primitive data structures*: These are more complex data structures created from primitive data structures. They are further divided into linear and non-linear data structures.
+
+<img width="1293" height="937" alt="image" src="https://github.com/user-attachments/assets/39c58403-a274-43dd-8e26-e320770f9ab1" />
+
+
+Linear Data Structure
+
+The arrangement of data in a sequential manner is known as a linear data structure. The data structures used for this purpose include arrays, linked lists, stacks, and queues. In linear data structures, one element is connected to only one other element in the sequence.
+
+*Examples of Linear Data Structures:*
+
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+
+*Characteristics of Linear Data Structures:*
+
+- Elements are arranged in a sequential manner
+- Each element is connected to only one other element
+- Data is accessed in a linear sequence
+- 
+Page 2
+linear form
+Non-linear data structure :-
+When one element is connected to the 'n' number of elements known as non-linear data structures.
+
+Example: trees and graphs.
+in In this case, elements are arranged a random manner.
+Algorithms and Abstract Darta types ??
+
+Algorithms
+Abstract data types
+set of rules.
+←
+To structure the data in memory, 'n' number of algunthms are proposed, and all these algorithms are knowns as Abstract Darta Types
 ✅ 1. What Is Data Structure & Algorithm Complexity?
 
 You wrote:
@@ -6,7 +51,6 @@ Solve any problem → it is solved using a specific algorithm
 ✔ Correct — every problem is solved using an algorithm, and every algorithm has a performance (speed & memory).
 
 <img width="809" height="1280" alt="image" src="https://github.com/user-attachments/assets/9308fd6a-b038-46cf-90bf-754f082dd844" />
-<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/5efb5874-3afc-4906-882c-f5d90d44c645" />
 
 ✅ 2. Time Complexity (Best, Average, Worst)
 
@@ -132,3 +176,6 @@ O(n²) – quadratic
 O(2ⁿ) – exponential
 
 O(n!) – factorial
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/5efb5874-3afc-4906-882c-f5d90d44c645" />
+
