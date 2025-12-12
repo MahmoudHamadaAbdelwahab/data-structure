@@ -6,6 +6,7 @@ Solve any problem → it is solved using a specific algorithm
 ✔ Correct — every problem is solved using an algorithm, and every algorithm has a performance (speed & memory).
 
 <img width="809" height="1280" alt="image" src="https://github.com/user-attachments/assets/9308fd6a-b038-46cf-90bf-754f082dd844" />
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/5efb5874-3afc-4906-882c-f5d90d44c645" />
 
 ✅ 2. Time Complexity (Best, Average, Worst)
 
