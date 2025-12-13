@@ -142,4 +142,14 @@ Important points  :- 1-An algorithm is not a program or code 2-It is the logic o
 
 Example :- Steps to find the maximum number: 1-Start 2-Read numbers 3-Compare values 4-Display the largest 5-Stop
 
-Characteristics of an Algorithm :- 1-Input ( An algorithm can take: Zero input or , One or more inputs ) 
+Characteristics of an Algorithm :- 
+1- Input ( An algorithm can take: Zero input or , One or more inputs ) 
+2- Output ( An algorithm must produce at least one output , Output is obtained at the end of algorithm execution )
+  Example: Input → numbers  Output → sum / average / maximum value
+3- Unambiguity ( The algorithm should be unambiguous , Each instruction must be clear and simple , No step should have multiple meanings )
+  Example: not corect “Process the data” (unclear) , corect “Add all numbers and store the result” (clear)
+4- Finiteness ( An algorithm must terminate , It should have a finite (limited) number of steps , An algorithm that runs forever is invalid.)
+5- Effectiveness
+
+Every step must be: Simple , Executable , Practical , Each instruction should contribute to the final result.
+
