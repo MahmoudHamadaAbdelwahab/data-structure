@@ -83,6 +83,70 @@ File: All students data
 # Advantages of Data Structures
  1. Efficient Data Access (Faster searching, sorting, and updating) 2. Better Memory Management ( Optimal use of memory , Avoids wastage ) 3. Improved Performance (Reduces time complexity , Makes applications faster ) 4. Code Reusability ( Standard structures like Stack, Queue, List can be reused ) 5. Scalability ( Handles growing data easily ) 6. Real-World Modeling (Helps represent real-world systems logically ) 
 
+Operations on Data Structures
+
+<img width="868" height="801" alt="image" src="https://github.com/user-attachments/assets/2317695a-816d-4a55-830b-27ca79544b6b" />
+
+1- Traversin :- Traversing means visiting each element of a data structure one by one in order to perform a specific operation.
+ 
+ Why it is needed : 1-Searching elements 2-Sorting data 3-Calculating values (sum, average, etc.)
+
+ Example (from the photo) --> If we want to calculate the average marks of a student in different subjects
+
+2- Insertion :- Insertion is the process of adding a new element to a data structure at any specific location.
+
+Important point :- If the size of the data structure is n, we can insert elements only if space is available.
+
+Example :- Inserting a new value into an array 2-Adding a node to a linked list 3-Pushing an element into a stack  "In arrays, insertion may require shifting elements "
+
+3- Deletion :- Deletion is the process of removing an element from a data structure.
+
+🔹 Key notes
+
+Deletion can occur at:- 1-Beginning 2-End 3-Any random position
+
+Important condition :- If we try to delete an element from an empty data structure, an underflow condition occurs.
+
+Example :- 1-Removing an element from an array 2-Popping an element from a stack 3-Deleting a node from a linked list
+
+4- Searching :- Searching is the process of finding the location (position) of a given element in a data structure.
+
+Purpose :- 1-Check whether an element exists 2-Find the index or position of an element
+
+Common searching methods :- 1-Linear Search – checks elements one by one 2-Binary Search – faster, but requires sorted data
+
+5- Sorting :- Sorting is the process of arranging data elements in a specific order.
+
+Common orders
+
+1-Ascending order (small → large)
+
+2-Descending order (large → small)
+
+Why sorting is important :- 1-Makes searching faster 2-Improves data organization 3-Used in databases and real applications
+
+Examples of sorting algorithms (mentioned in the photo) :- 1-Insertion Sort 2-Selection Sort 3-Bubble Sort  --> There are many other sorting algorithms like Merge Sort and Quick Sort.
+
+6- Merging :- Merging is the process of combining two lists of similar data types into a single list.
+
+Explanation :- 
+
+List A of size M
+List B of size N
+After merging → List C of size (M + N)
+
+# What is an Algorithm ?
+An algorithm is a step-by-step procedure or set of rules used to solve a problem or perform a computation.
+
+Important points  :- 1-An algorithm is not a program or code 2-It is the logic or solution approach 3-It can be represented using: 4-Flowcharts 5-Pseudocode 6-Simple written steps
+
+Example :- Steps to find the maximum number: 1-Start 2-Read numbers 3-Compare values 4-Display the largest 5-Stop
+
+Characteristics of an Algorithm :- 1-Input ( An algorithm can take: Zero input or , One or more inputs ) 
+
+
+
+
 
 
 
