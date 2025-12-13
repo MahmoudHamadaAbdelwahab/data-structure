@@ -1,16 +1,15 @@
 Data Structure
-Page 1
-Data structure is a way to store and organize data so that it can be used efficiently. It helps in organizing data in memory. It is not a programming language itself but a set of algorithms that can be used within any programming language to structure data in memory.
+
+it's a way to store and organize data so that it can be used efficiently. It helps in organizing data in memory. It is not a programming language itself but a set of algorithms that can be used within any programming language to structure data in memory.
 
 Data Structures Classification
 
 Data structures are broadly classified into two categories:
 
-- *Primitive data structures*: These are basic data types that are built into a programming language, such as int, char, float, double, and pointer.
-- *Non-primitive data structures*: These are more complex data structures created from primitive data structures. They are further divided into linear and non-linear data structures.
-
 <img width="1293" height="937" alt="image" src="https://github.com/user-attachments/assets/39c58403-a274-43dd-8e26-e320770f9ab1" />
 
+- *Primitive data structures*: These are basic data types that are built into a programming language, such as int, char, float, double, and pointer.
+- *Non-primitive data structures*: These are more complex data structures created from primitive data structures. They are further divided into linear and non-linear data structures.
 
 Linear Data Structure
 
@@ -18,31 +17,34 @@ The arrangement of data in a sequential manner is known as a linear data structu
 
 *Examples of Linear Data Structures:*
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
+Example : Arrays , Linked Lists , Stacks , Queues
 
 *Characteristics of Linear Data Structures:*
 
-- Elements are arranged in a sequential manner
-- Each element is connected to only one other element
-- Data is accessed in a linear sequence
-- 
-Page 2
-linear form
+1- Elements are arranged in a sequential manner 2- Each element is connected to only one other element 3- Data is accessed in a linear sequence linear form
+
 Non-linear data structure :-
 When one element is connected to the 'n' number of elements known as non-linear data structures.
 
 Example: trees and graphs.
 in In this case, elements are arranged a random manner.
+
 Algorithms and Abstract Darta types ??
 
-Algorithms
-Abstract data types
-set of rules.
-←
-To structure the data in memory, 'n' number of algunthms are proposed, and all these algorithms are knowns as Abstract Darta Types
+<img width="601" height="370" alt="Screenshot 2025-12-13 081215" src="https://github.com/user-attachments/assets/94e96a73-a7dd-4244-b6bf-33b2db27931c" />
+
+Why --> To structure the data in memory, 'n' number of algunthms are proposed, and all these algorithms are knowns as Abstract Darta Types
+
+An Abstract Data Type (ADT) tells what is to be done and DS tells how is to be done ?
+
+ADT gives us the bluepint while ds provides the implementation part 
+
+
+
+
+
+
+
 ✅ 1. What Is Data Structure & Algorithm Complexity?
 
 You wrote:
