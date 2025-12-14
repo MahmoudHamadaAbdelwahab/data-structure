@@ -153,3 +153,31 @@ Characteristics of an Algorithm :-
 
 Every step must be: Simple , Executable , Practical , Each instruction should contribute to the final result.
 
+# Pointers
+Pointer: A pointer is a variable that stores the memory address of another variable. , It is used to directly access and manipulate data stored in memory locations.
+
+Syntax for Declaration (The * symbol): The asterisk (*) is used to declare a variable as a pointer, signifying that it will store an address rather than a direct value.
+Example: int *ptr; means ptr is a pointer that can hold the address of an int variable.
+Address-of Operator (The & symbol): The ampersand (&) operator is used to get the memory address of a variable.
+Example: ptr = &a; means the address of variable a is stored inside the pointer ptr.
+
+Dereferencing Operator (The * symbol): The asterisk (*) operator, when used after a pointer has been declared and assigned, is called the dereference or indirection operator.
+Purpose: It allows you to access the value stored at the memory address pointed to by the pointer.
+Example: *ptr gives you the actual value of a.
+
+Pointer Arithmetic
+Concept: This refers to performing arithmetic operations (like addition or subtraction) on a pointer.
+Key Rule: When you increment or decrement a pointer, the address changes by the size of the data type it points to. It does not simply increase/decrease by 1 byte.
+Example: If an integer pointer (int*) at address 1000 is incremented (ptr++), it will point to address 1004 (assuming an integer is 4 bytes).
+This is essential for easily moving through elements in an array.
+
+Array of Pointers
+Definition: An array where each element is a pointer. Instead of storing data values, it stores the memory addresses of other variables.
+Syntax: int *arr[5]; declares an array named arr with 5 elements, where each element is a pointer to an integer.
+Use: Often used to store multiple strings or manage multiple memory locations efficiently.
+Pointers are a foundational concept in low-level languages like C and C++ for dynamic memory allocation and building complex data structures.
+
+
+
+
+
