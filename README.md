@@ -154,6 +154,8 @@ Characteristics of an Algorithm :-
 Every step must be: Simple , Executable , Practical , Each instruction should contribute to the final result.
 
 # Pointers
+<img width="615" height="813" alt="image" src="https://github.com/user-attachments/assets/c3fb84fe-6c0c-4b19-9ecb-fc757e4990f5" />
+
 Pointer: A pointer is a variable that stores the memory address of another variable. , It is used to directly access and manipulate data stored in memory locations.
 
 Syntax for Declaration (The * symbol): The asterisk (*) is used to declare a variable as a pointer, signifying that it will store an address rather than a direct value.
@@ -177,7 +179,31 @@ Syntax: int *arr[5]; declares an array named arr with 5 elements, where each ele
 Use: Often used to store multiple strings or manage multiple memory locations efficiently.
 Pointers are a foundational concept in low-level languages like C and C++ for dynamic memory allocation and building complex data structures.
 
+# Structures
+Definition and Purpose
+A Structure is defined as a composite data type that allows a grouped list of variables to be placed under a single name in a block of memory.
+In simpler terms, it lets you combine variables of different data types (like an integer, a string, and a floating-point number) into one logical unit.
 
+Syntax for Declaration
+The syntax for defining a structure is shown as:
+C
+Struct structure-name
+{
+    data-type member 1;
+    data-type member 2;
+    ...
+    data-type member j;
+};
+The definition starts with the keyword struct.
+It is followed by the structure-name (a user-defined identifier).
+The actual variables within the structure are called members, and they are enclosed in curly braces ({}) followed by a semicolon (;).
+
+Advantages of Structures
+1-The notes list several benefits of using structures:
+2-It can hold variables of different data types.
+You can create objects that contain different types of attributes (i.e., you can use the structure definition as a blueprint to create instances).
+3-It allows for the re-use of the data layout across different programs.
+4-It is used to implement other data structures like linked lists, queues, trees, and graphs. Would you like to see a practical example of a structure being used to represent an object, like a book or a student record?
 
 
 
