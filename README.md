@@ -184,23 +184,6 @@ Definition and Purpose
 A Structure is defined as a composite data type that allows a grouped list of variables to be placed under a single name in a block of memory.
 In simpler terms, it lets you combine variables of different data types (like an integer, a string, and a floating-point number) into one logical unit.
 
-Syntax for Declaration
-The syntax for defining a structure is shown as:
-
-C
-
-Struct structure-name
-{
-    data-type member 1;
-    
-    data-type member 2;
-
-};
-
-The definition starts with the keyword struct.
-It is followed by the structure-name (a user-defined identifier).
-The actual variables within the structure are called members, and they are enclosed in curly braces ({}) followed by a semicolon (;).
-
 Advantages of Structures
 1-The notes list several benefits of using structures:
 2-It can hold variables of different data types.
