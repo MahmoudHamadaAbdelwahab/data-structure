@@ -191,5 +191,20 @@ You can create objects that contain different types of attributes (i.e., you can
 3-It allows for the re-use of the data layout across different programs.
 4-It is used to implement other data structures like linked lists, queues, trees, and graphs. Would you like to see a practical example of a structure being used to represent an object, like a book or a student record?
 
+# What is Time Complexity ?
+
+![WhatsApp Image 2025-12-12 at 16 10 59](https://github.com/user-attachments/assets/1997cc5e-a282-46d1-a594-343be2d0eaba)
+
+# Stack  
+it's work LIFO --> last in first out
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/fc7c1bd1-1461-46a2-bb5d-6c2bf50aea2c" />
+Top --> Increament when add any ele
+Array-Based Implementation of the ADT Stack ?
+push() it's top++ , pop() it's top-- , getTop() it's get end ele , IsEmpty() it's sure the stack empty or no , Delete() it's delete end ele , top -- 
+
+
+
+
 
 
