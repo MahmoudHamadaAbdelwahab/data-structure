@@ -200,7 +200,9 @@ it's work LIFO --> last in first out
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/fc7c1bd1-1461-46a2-bb5d-6c2bf50aea2c" />
 Top --> Increament when add any ele
+
 Array-Based Implementation of the ADT Stack ?
+
 push() it's top++ , pop() it's top-- , getTop() it's get end ele , IsEmpty() it's sure the stack empty or no , Delete() it's delete end ele , top -- 
 
 
