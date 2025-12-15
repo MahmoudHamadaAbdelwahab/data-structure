@@ -218,7 +218,7 @@ push() it's top++ , pop() it's top-- , getTop() it's get end ele , IsEmpty() it'
 
 <img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/7b7b5ba0-7aeb-489f-bb19-6693d6a48824" />
 
-
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/1334f0d2-c76b-44d2-9ae1-6d4f30fbf05a" />
 
 
 
