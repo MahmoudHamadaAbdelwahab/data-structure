@@ -199,11 +199,28 @@ You can create objects that contain different types of attributes (i.e., you can
 it's work LIFO --> last in first out
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/fc7c1bd1-1461-46a2-bb5d-6c2bf50aea2c" />
+
 Top --> Increament when add any ele
 
 Array-Based Implementation of the ADT Stack ?
 
 push() it's top++ , pop() it's top-- , getTop() it's get end ele , IsEmpty() it's sure the stack empty or no , Delete() it's delete end ele , top -- 
+
+# Stack using Linked List 
+
+ <img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/4087aebf-f7b7-4ea8-ac24-9d01c8b35657" />
+
+# Balanced Parentheses using Stack 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/6644d3c8-cc6e-491a-b897-9eb321a3287c" />
+
+# Infix to Postfix using Stack  & Queue Introduction (Simple Queue VS Circular Queue using Array)
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/7b7b5ba0-7aeb-489f-bb19-6693d6a48824" />
+
+
+
+
 
 
 
