@@ -235,6 +235,88 @@ Eng :- Adel Nasim
 
 <img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/1f5ef80a-bfba-4be9-ae6e-9dae832d71d2" />
 
+# Array Based list with implementaion 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/98597ef4-36d7-48c7-982e-06878ffc59f3" />
+
+# Interoduction to Linked list
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/f88dddf5-1e07-4125-aae0-968248952a9f" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/e6241909-2ea9-4dda-8267-80eae1e48a80" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/6f6665fe-bfb7-45c1-8794-21b64bfc358e" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/d5359e2b-7fc1-4d35-abd0-39a092cc683e" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/ddb00b06-0230-445c-84c4-deb5cc131572" />
+
+# Double Linked List Insert (First | Last | At)  & Remove (First | Last | At)
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/8cbb3b3d-f964-49e8-953a-0507899e6672" />
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae544220-fc84-48fc-b1c9-4498cec0b377" />
+
+# Interoduction to Tree 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/9d66fd57-75df-41f2-ad2e-bf9436bb75a7" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/5a3c9a15-ae50-46f6-8690-9b57087a16ce" />
+
+# Binary tree traversal with implementation
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/d2d7e65c-4ffe-4e42-8b10-51afc367ae46" />
+
+# Binary search tree 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/7e00e14e-0913-4a20-9d6f-a8ea13ccd6b4" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/ea9f129c-3595-49ca-a676-baf5769de0aa" />
+
+# AVL tree 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/9bec143e-54db-418b-af1f-67d6a8d15bc0" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/a259ad51-94b4-492c-ae3a-f5d7471c9a53" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/eb25841f-fe8b-4287-bd94-015c76754970" />
+
+# Huff man coding algorithm
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/f93959f8-7ab0-4b01-a336-0c59347b5325" />
+
+# Sort algorithm with implementaion 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/7e69f73f-db1c-4bd1-8f31-41fd2012634b" />
+
+# Bubble sort algorithm 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/7f041afe-4bb2-4672-80ca-445c0da0b85d" />
+
+# Insertion sort algorithm & Merge 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/9f19d514-9817-4d44-a5eb-388427e37bcc" />
+
+# Quick sort algorithm 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/c75c6595-e5d5-496d-8238-4e2d3144ac6b" />
+
+# Heap sort algorithm 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/b1b7b7c3-36c8-45de-bfc5-924a847828b3" />
+
+# Linear & Binary search algorithm 
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/b543d0f8-16d9-4173-85c4-b46f92711edd" />
+
+# Hashing ( Hash Table )
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/13fbcc10-673e-435c-9111-f8fae2659080" />
+
+# Introduction to Graph 
+
+
+
 
 
 
