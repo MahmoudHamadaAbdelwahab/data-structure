@@ -220,6 +220,24 @@ push() it's top++ , pop() it's top-- , getTop() it's get end ele , IsEmpty() it'
 
 <img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/1334f0d2-c76b-44d2-9ae1-6d4f30fbf05a" />
 
+# Queue Implementaion using Circular Array && Using Linked List 
+
+Eng :- Mohamed Eldesouki 
+
+
+<img width="1085" height="601" alt="image" src="https://github.com/user-attachments/assets/0287155a-6a89-4742-a45c-9c36b9ab121e" />
+
+<img width="1037" height="528" alt="image" src="https://github.com/user-attachments/assets/3510e663-9a2f-4511-8e0d-685b299cd698" />
+
+Eng :- Adel Nasim
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/4da05903-2a23-474f-baff-9b3ea3b90015" />
+
+<img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/1f5ef80a-bfba-4be9-ae6e-9dae832d71d2" />
+
+
+
+
 
 
 
